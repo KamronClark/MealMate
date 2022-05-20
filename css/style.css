@@ -1,0 +1,69 @@
+.checkArea {
+  margin: 0;
+  text-align: left;
+  font-size: 1.3em;
+}
+
+form {
+  background-image: none;
+  background-color: white;
+}
+
+.check {
+  margin-left: 200px;
+}
+
+.error {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+.score {
+  font-size:150%;
+  color: #36407F;
+}
+
+.scoreinfo {
+  vertical-align: top;
+  padding-right:15px;
+}
+
+.whitebg {
+  background-color: #f0f0f0;
+  color: #23191a;
+}
+
+.mainbgLightText {
+  background-color: #60827F;
+  color: #f0f0f0;
+}
+
+.mainbgDarkText {
+  background-color: #60827F;
+  color: black;
+}
+
+.mainText {
+  color: #60827F;
+}
+
+.contrastbgLightText {
+  background-color: #786762;
+  color: #f0f0f0;
+}
+
+.mainBorder {
+  border-style: solid;
+  border-color: #60827F;
+  border-width: 5px;
+  border-radius: 10px;
+}
+
+.darkbgLightText {
+  background-color: #26313B;
+  color: #f0f0f0;
+}
+
+.steps h1 {
+  color: #60827F;
+}

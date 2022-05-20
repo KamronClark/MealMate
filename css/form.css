@@ -1,0 +1,22 @@
+body {
+    margin: auto;    
+    text-align: center;       
+}
+
+form {
+    margin: auto;
+    width: 60%;
+}
+
+.invalid {  
+    color: red;
+    visibility: hidden;
+    text-align: left;
+    /*margin-top: 8px;*/
+    margin-bottom: 20px;
+}
+
+#formResult {
+    font-size: xx-large;
+    visibility: hidden;
+}
